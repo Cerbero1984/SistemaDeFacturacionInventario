@@ -122,8 +122,8 @@ public class ventaPDF {
             Encabezado.addCell(img);
             
             String rnc = "01030587954";
-            String nombre = "Proacom";
-            String telefono= "8098180462";
+            String nombre = "ProComsa";
+            String telefono = "8091234567";
             String direccion = "c/ 27 de Febrero esq. Linconl";
             String razon = "La lealtad del servicios en nuestras manos.";
             
